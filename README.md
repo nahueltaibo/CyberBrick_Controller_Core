@@ -5,7 +5,7 @@ This is a project repository for RC controller applications and Timelapse contro
 
 This is fun, enjoy it!
 
-## About this repositoty
+## About this repository
 ------------------------
 
 This repository contains the following content:
